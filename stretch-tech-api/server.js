@@ -149,3 +149,9 @@ app.get('/', (request, response) => {
 app.get('/api/allBirds', (request, response) => {
   response.send(allBirds);
 })
+
+app.get('/api/allBirds/:id', (request, response) => {
+  const bird = allBirds.find(c => c.id === parseInt(request.params.id))
+  if (!bird) response.status(404).send('404: The course with the given id was not found.');
+  response.send(bird);
+})
