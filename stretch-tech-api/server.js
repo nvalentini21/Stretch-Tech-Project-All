@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 
+import birdInfo from ('./data.js')
+
 app.use(express.json());
 
 app.set('port', process.env.PORT || 3000)
