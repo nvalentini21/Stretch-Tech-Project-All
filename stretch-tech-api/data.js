@@ -5,7 +5,7 @@ const birdData = [
 		'common_name': 'Fire-capped tit',
 		'scientific_name': 'Cephalopyrus flammiceps',
 		'description':
-			'The fire-capped tit (Cephalopyrus flammiceps) is a small, 10 cm (3.9 in) long, weighing about 7 g (0.25 oz) bird species assigned to the family Paridae, that breeds in the temperate forest bordering the Himalayas to the south, in the Hengduan Shan and Nujiang Shan on the Myanmar-China border, the Micah Shan and Daba Shan on the Northern Sichuan border. It winters down hill and further south. Further to the east, birds tend to be smaller and the plumage becomes gradually darker.',
+			'The fire-capped tit (Cephalopyrus flammiceps) is a small, 10 cm (3.9 in) long, weighing about 7 g (0.25 oz) bird species assigned to the family Paridae.',
 		'habitat': 'Forest, woodlands and regions with solitary trees',
 		'fun_fact':
 			'This tit is able to open rolled-up leaves with its beak as starlings do, and hold it with its foot.',
@@ -18,7 +18,7 @@ const birdData = [
 		'common_name': 'Crested titmouse',
 		'scientific_name': 'Baeolophus bicolor',
 		'description':
-			'This rather tame, active, crested little bird is common all year in eastern forests, where its whistled peter-peter-peter song may be heard even during mid-winter thaws. It is related to the chickadees, and like them it readily comes to bird feeders, often carrying away sunflower seeds one at a time. Feeders may be helping it to expand its range: in recent decades, Tufted Titmice have been steadily pushing north.',
+			'This rather tame, active, crested little bird is common all year in eastern forests, where its whistled peter-peter-peter song may be heard even during mid-winter thaws.',
 		'habitat': 'Woodlands, shade trees, groves',
 		'fun_fact':
 			'This bird may pluck hair from live woodchuck, dog, or other animal, even from humans.',
@@ -31,7 +31,7 @@ const birdData = [
 		'common_name': 'Sultan tit',
 		'scientific_name': 'Melanochlora sultanea',
 		'description':
-			'The sultan tit (Melanochlora sultanea) is an Asian forest bird with a yellow crest, dark bill, black upperparts plumage and yellow underparts. The sexes are similar. The female has greenish black upperparts and yellowish throat. The young bird is duller than the adult and has a shorter crest. It is the only member of the monotypic genus Melanochlora, which is fairly distinct from the Parus tits with the nearest relative being the monotypic Sylviparus.',
+			'The sultan tit (Melanochlora sultanea) is an Asian forest bird with a yellow crest, dark bill, black upperparts plumage and yellow underparts.',
 		'habitat': 'Lowland forests',
 		'fun_fact':
 			'The recumbent crest is raised when the bird is alert or alarmed.',
@@ -44,7 +44,7 @@ const birdData = [
 		'common_name': 'Oak titmouse',
 		'scientific_name': 'Baeolophus inornatus',
 		'description':
-			'As plain as a bird can be, marked only by a short crest, the Oak Titmouse nonetheless has personality. Pairs or family parties travel about the woods together, exploring the twigs for insects and calling to each other frequently. Until recently, this bird and the Juniper Titmouse were regarded as one species under the name of Plain Titmouse.',
+			'As plain as a bird can be, marked only by a short crest, the Oak Titmouse nonetheless has personality. ',
 		'habitat': 'Oak woods, pinyon-juniper; locally river woods, shade trees',
 		'fun_fact': 'Pairs stay together after the breeding season.',
 		'img_url':
@@ -82,7 +82,7 @@ const birdData = [
 		'common_name': 'Rufous-naped tit',
 		'scientific_name': 'Periparus rufonuchalis',
 		'description':
-			'The rufous-naped tit (Periparus rufonuchalis), also known as the black-breasted tit or dark-grey tit, is an Asian songbird species in the tit and chickadee family (Paridae). It was sometimes considered conspecific with the rufous-vented tit (P. rubidiventris), and was formerly placed in the genus Parus.',
+			'The rufous-naped tit (Periparus rufonuchalis), also known as the black-breasted tit or dark-grey tit, is an Asian songbird species in the tit and chickadee family (Paridae).',
 		'habitat':
 			'Subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest, arable land, tropical high altitude',
 		'fun_fact': '',
@@ -95,7 +95,7 @@ const birdData = [
 		'common_name': 'Rufous-vented tit',
 		'scientific_name': 'Periparus rubidiventris',
 		'description':
-			'The rufous-vented tit (Periparus rubidiventris) is an Asian songbird species in the tit and chickadee family (Paridae). Some of its subspecies were formerly assigned to its western relative the rufous-naped tit (P. rufonuchalis), or these two were considered entirely conspecific.',
+			'The rufous-vented tit (Periparus rubidiventris) is an Asian songbird species in the tit and chickadee family (Paridae).',
 		'habitat': 'Boreal forests and temperate forests',
 		'fun_fact':
 			'Widespread and by no means rare, it is not considered a threatened species by the IUCN.',
@@ -108,7 +108,7 @@ const birdData = [
 		'common_name': 'Coal tit',
 		'scientific_name': 'Periparus ater',
 		'description':
-			'The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae. It is a widespread and common resident breeder in forests throughout the temperate to subtropical Palearctic, including North Africa. The black-crested tit is now usually included in this species.',
+			'The coal tit or cole tit, (Periparus ater), is a small passerine bird in the tit family, Paridae.',
 		'habitat': 'Temperate humid conifer forest',
 		'fun_fact':
 			'The coal tit has the dubious distinction of having the largest number of bird fleas (Ceratophyllus gallinae) reported from a single nest, 5,754 fleas!',
@@ -121,7 +121,7 @@ const birdData = [
 		'common_name': 'Great tit',
 		'scientific_name': 'Parus major',
 		'description':
-			'The great tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central Asia and east across the Palearctic to the Amur River, south to parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters.',
+			'The great tit (Parus major) is a passerine bird in the tit family Paridae.',
 		'habitat':
 			'Open deciduous woodland, mixed forests, forest edges and gardens',
 		'fun_fact':
@@ -149,7 +149,7 @@ const birdData = [
 		'common_name': 'Palawan tit',
 		'scientific_name': 'Pardaliparus amabilis',
 		'description':
-			'The Palawan tit (Pardaliparus amabilis) is a species of bird in the tit family Paridae. It is endemic to Palawan and the smaller islands of Calauit and Balabac in the Philippines.',
+			'The Palawan tit (Pardaliparus amabilis) is a species of bird in the tit family Paridae.',
 		'habitat':
 			'Lowland forest habitats, including secondary forests, forest edge, swamps as well as submontane forest',
 		'fun_fact': '',
@@ -174,7 +174,7 @@ const birdData = [
 		'common_name': 'Grey crested tit',
 		'scientific_name': 'Lophophanes dichrous',
 		'description':
-			'The grey crested tit or grey-crested tit (Lophophanes dichrous) is a species of bird in the family Paridae. It is found in the Himalayan foothills and southern-central China.',
+			'The grey crested tit or grey-crested tit (Lophophanes dichrous) is a species of bird in the family Paridae.',
 		'habitat':
 			'Temperate forest and subtropical or tropical moist montane forest',
 		'fun_fact': '',
@@ -187,8 +187,7 @@ const birdData = [
 		'common_name': 'Bridled titmouse',
 		'scientific_name': 'Baeolophus wollweberi',
 		'description':
-			'The bridled titmouse (Baeolophus wollweberi) is a small songbird, a passerine bird in the tit family Paridae.These birds range from 11.5 – 12.7 cm. (4.5 to 5 in.) long. It is small, crested and gray with a black and white patterned face, a black bib. Its crest is boarded with black and white (sometimes gray) underparts. A standard nest ranges from 5 – 9 eggs colored white, speckled, or reddish brown.',
-		'habitat': 'Oak or oak-juniper mixed woodland riparian areas of mountains',
+			'The bridled titmouse (Baeolophus wollweberi) is a small songbird, a passerine bird in the tit family Paridae.',
 		'fun_fact':
 			'Their song is usually described as a whistled pidi-pidi-pidi-pidi.',
 		'img_url':
@@ -200,7 +199,7 @@ const birdData = [
 		'common_name': 'Juniper titmouse',
 		'scientific_name': 'Baeolophus ridgwayi',
 		'description':
-			"The juniper titmouse (Baeolophus ridgwayi) is a passerine bird in the tit family Paridae. The American Ornithologists' Union split the plain titmouse into the oak titmouse and the juniper titmouse in 1996, due to distinct differences in song, preferred habitat, and genetic makeup.",
+			'The juniper titmouse (Baeolophus ridgwayi) is a passerine bird in the tit family Paridae. ',
 		'habitat':
 			'Woodlands of warm, dry pinyon-juniper, juniper and desert riparian woods',
 		'fun_fact': '',
@@ -213,7 +212,7 @@ const birdData = [
 		'common_name': 'Black-crested titmouse',
 		'scientific_name': 'Baeolophus atricristatus',
 		'description':
-			'The black-crested titmouse or Mexican titmouse (Baeolophus atricristatus), is a passerine bird in the tit family Paridae. Once considered a subspecies of the tufted titmouse (B. bicolor), it was recognized as a separate species in 2002. It is native to southern Texas, Oklahoma, and east-central Mexico. Vagrants have been seen as far north and east as St. Louis, Missouri.',
+			'The black-crested titmouse or Mexican titmouse (Baeolophus atricristatus), is a passerine bird in the tit family Paridae.',
 		'habitat': 'Brushlands, woods, riverside groves',
 		'fun_fact': '',
 		'img_url':
@@ -225,7 +224,7 @@ const birdData = [
 		'common_name': 'Varied tit',
 		'scientific_name': 'Sittiparus varius',
 		'description':
-			'The varied tit (Sittiparus varius) is a perching bird from the tit family, Paridae. It occurs in the eastern Palearctic in Japan, Korea, and locally in northeastern China (southern Liaoning) and extreme southeastern Russia (southern Kurile Islands).',
+			'The varied tit (Sittiparus varius) is a perching bird from the tit family, Paridae.',
 		'habitat':
 			'Open mixed forests, coniferous forests with Japanese yews, Cryptomeria (sugi), and pines as well as bamboo forests at mountain slopes and in river valleys',
 		'fun_fact':
@@ -264,7 +263,7 @@ const birdData = [
 		'common_name': 'White-fronted tit',
 		'scientific_name': 'Sittiparus semilarvatus',
 		'description':
-			'The white-fronted tit (Sittiparus semilarvatus) is a species of bird in the family Paridae. It is endemic to the Philippines found in the islands of Luzon and Mindanao. Its natural habitat is tropical moist lowland forests. It is threatened by habitat loss.',
+			'The white-fronted tit (Sittiparus semilarvatus) is a species of bird in the family Paridae. It is endemic to the Philippines found in the islands of Luzon and Mindanao.',
 		'habitat': 'Tropical moist lowland forests',
 		'fun_fact': '',
 		'img_url':
@@ -288,7 +287,7 @@ const birdData = [
 		'common_name': 'Tufted titmouse',
 		'scientific_name': 'Baeolophus bicolor',
 		'description':
-			'The tufted titmouse (Baeolophus bicolor) is a small songbird from North America, a species in the tit and chickadee family (Paridae). The black-crested titmouse, found from central and southern Texas southward, was included as a subspecies, but now is considered a separate species, Baeolophus atricristatus.',
+			'The tufted titmouse (Baeolophus bicolor) is a small songbird from North America, a species in the tit and chickadee family (Paridae).',
 		'habitat':
 			'Deciduous and mixed woods as well as gardens, parks, and shrublands.',
 		'fun_fact':
@@ -316,7 +315,7 @@ const birdData = [
 		'common_name': 'Marsh tit',
 		'scientific_name': 'Poecile palustris',
 		'description':
-			"The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, Père David's and Songar tits. It is a small bird, around 12 cm (4.7 in) long and weighing 12 g (0.42 oz), with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised.",
+			"The marsh tit (Poecile palustris) is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, Père David's and Songar tits.",
 		'habitat':
 			'Lowland areas, large areas of moist, broadleaved woodland, wet alder woodland, riverside trees, parks and gardens or orchards',
 		'fun_fact': '',
@@ -329,7 +328,7 @@ const birdData = [
 		'common_name': 'Black-capped chickadee',
 		'scientific_name': 'Poecile atricapillus',
 		'description':
-			'The black-capped chickadee (Poecile atricapillus) is a small, nonmigratory, North American songbird that lives in deciduous and mixed forests. It is a passerine bird in the tit family, the Paridae. It is the state bird of Massachusetts and Maine in the United States, and the provincial bird of New Brunswick in Canada. It is well known for its ability to lower its body temperature during cold winter nights, its good spatial memory to relocate the caches where it stores food, and its boldness near humans (sometimes feeding from the hand).',
+			'The black-capped chickadee (Poecile atricapillus) is a small, nonmigratory, North American songbird that lives in deciduous and mixed forests.',
 		'habitat': 'Deciduous and mixed forests',
 		'fun_fact':
 			'The Black-capped generally sings out a “fee-bee” call while the Carolina sings “fee-bee fee-bay;” however, this song is learned and, in overlapping territories, may be learned from the “wrong” bird.',
@@ -342,7 +341,7 @@ const birdData = [
 		'common_name': 'American bushtit',
 		'scientific_name': 'Psaltriparus minimus',
 		'description':
-			'The American bushtit (Psaltriparus minimus) is the only species placed in the genus Psaltriparus and the only species in the family Aegithalidae that is found in the New World. In North America, it is referred to simply as "bushtit".',
+			'The American bushtit (Psaltriparus minimus) is the only species placed in the genus Psaltriparus and the only species in the family Aegithalidae that is found in the New World.',
 		'habitat':
 			'Mixed open woodlands, often containing oaks and a scrubby chaparral understory; it also inhabits parks and gardens',
 		'fun_fact':
@@ -356,7 +355,7 @@ const birdData = [
 		'common_name': 'Green-backed tit',
 		'scientific_name': 'Parus monticolus',
 		'description':
-			'The green-backed tit (Parus monticolus) is a species of bird in the family Paridae. It is found in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Pakistan, Taiwan and Vietnam.',
+			'The green-backed tit (Parus monticolus) is a species of bird in the family Paridae.',
 		'habitat':
 			'Boreal forest, temperate forest, and subtropical or tropical moist lowland forest.',
 		'fun_fact': '',
@@ -369,7 +368,7 @@ const birdData = [
 		'common_name': 'Cinereous tit',
 		'scientific_name': 'Parus cinereus',
 		'description':
-			'The cinereous tit (Parus cinereus) is a species of bird in the tit family Paridae. This species is made up of several populations that were earlier treated as subspecies of the great tit (Parus major). These birds are grey backed with white undersides. The great tit in the new sense is distinguishable by the greenish-back and yellowish underside. The distribution of this species extends from parts of West Asia across South Asia and into Southeast Asia.',
+			'The cinereous tit (Parus cinereus) is a species of bird in the tit family Paridae.',
 		'habitat':
 			'Greater and Lesser Sundas found in wide variety of deciduous, coniferous and secondary forests, including montane heath and grasslands',
 		'fun_fact':
@@ -382,8 +381,7 @@ const birdData = [
 		'family': 'Falconidae',
 		'common_name': 'Malagasy kestrel',
 		'scientific_name': 'Falco newtoni',
-		'description':
-			'The Malagasy kestrel can reach a size of 30 cm. The wings are 180 mm to 195 mm at the males and 188 mm to 203 mm at the females. The males can reach a weight between 112 and 118 grams. The weight of the females is up to 128 grams. The head and the nape of the males is rufous grey with dark streaks. A dark moustachial streak running from the basis of the bill backwards to sides of the throat. The upperparts and the wingcoverts are chestnut with black spots. The uppertail coverts are grey with blackish spots. The long flight feathers are blackish brown, the inner webs are covered with white and chestnut spots. The underparts are whitish. The short flight feathers are chestnut coloured and dark banded.',
+		'description': 'The Malagasy kestrel can reach a size of 30 cm.',
 		'habitat': 'Savannahs/wetlands of Madagascar, Mayotte, and the Comores',
 		'fun_fact':
 			"The Malagasy kestrel's call consists of a sharp scream of iitsi, kitsi, kitsi, kitsi or a loud repeated twitter.",
@@ -396,7 +394,7 @@ const birdData = [
 		'common_name': 'Seychelles kestrel',
 		'scientific_name': 'Falco auraeus',
 		'description':
-			"The Seychelles kestrel is the smallest of kestrels, 18-23 cm long witha wingspan of 40-45 cm. The wings are fairly short and rounded. The adult male's upperparts are reddish brown with black spots while the underparts are unspotted and buff. The head and rump are dark blue-grey. The tail is blue-grey with black bars. The bill is dark and the feet and cere are yellow. Females are similar to the males in appearance but are a little larger and paler. Immature birds have a brown, streaked head, spots on the breast and a buff tip to the tail.",
+			'The Seychelles kestrel is the smallest of kestrels, 18-23 cm long witha wingspan of 40-45 cm.',
 		'habitat': 'Forest, scrub, and farmland around rock faces nad houses',
 		'fun_fact':
 			'This species only has a population of about 800 birds, and is considered vulnerable.',
@@ -409,7 +407,7 @@ const birdData = [
 		'common_name': 'Mauritius kestrel',
 		'scientific_name': 'Falco punctatus',
 		'description':
-			'The Mauritius kestrel can reach a size between 26 and 30.5 cm. The weight is up to 250 grams. The males are slightly smaller than the females. Wingspan is approximately 45 cm and wings are rounded, unlike those of other falcons. The lifespan is 15 years in captivity. The Mauritius kestrel hunts by means of short, swift flights through forests. It is carnivorous, eating geckos, dragonflies, cicadas, cockroaches, crickets, and small birds.',
+			'The Mauritius kestrel can reach a size between 26 and 30.5 cm. The weight is up to 250 grams. The males are slightly smaller than the females.',
 		'habitat':
 			'Forests, cliffs, and ravines of the island nation of Mauritius (Indian Ocean)',
 		'fun_fact':
@@ -423,7 +421,7 @@ const birdData = [
 		'common_name': 'Spotted kestrel',
 		'scientific_name': 'Falco moluccensis',
 		'description':
-			'Also known as the Moluccan kestrel, the Spotted Kestrel is a heavily-marked reddish-brown falcon. Dense spotting on back and wings contrasts sharply with gray tail. Sexes generally similar, but female averages more densely patterned, with fine barring on the tail. The only resident kestrel throughout much of range, but potential for overlap with Australian and Eurasian Kestrels exists; note densely-patterned underparts, overall richer and darker coloration, and dark brown crown. Hovers and hunts from an exposed perch. Gives shrill yaps and squeaks.',
+			'Also known as the Moluccan kestrel, the Spotted Kestrel is a heavily-marked reddish-brown falcon. Dense spotting on back and wings contrasts sharply with gray tail.',
 		'habitat': 'Open habitats across the Indonesian Archipelago',
 		'fun_fact':
 			'The Spotted kestrel has a habit of fluffing its tail while it is perched. This helps these birds to balance while they feed.',
@@ -436,7 +434,7 @@ const birdData = [
 		'common_name': 'Nankeen kestrel',
 		'scientific_name': 'Falco cenchroides',
 		'description':
-			'The Nankeen kestrel is a small, slim falcon 28 to 35 cm (11 to 14 in) long with a wingspan of 66 to 78 cm (26 to 31 in).The male weighs 121 to 195 g (4.3 to 6.9 oz) while the female weighs 115 to 273 g (4.1 to 9.6 oz).[7] It has pale rufous upper-parts with contrasting black flight-feathers and is finely streaked white below, with a black subterminal band. The cere, eye-ring, and legs are yellow. The male has a pale grey crown and tail with a darker grey tear-mark, while the female and juvenile have a pale rufous crown and finely barred rufous tail.',
+			'The Nankeen kestrel is a small, slim falcon 28 to 35 cm (11 to 14 in) long with a wingspan of 66 to 78 cm (26 to 31 in).',
 		'habitat':
 			'temperate grasslands and open woodlands of Australia and New Guinea',
 		'fun_fact':
@@ -463,7 +461,7 @@ const birdData = [
 		'common_name': 'Rock kestrel',
 		'scientific_name': 'Falco rupicolus',
 		'description':
-			'The Rock kestrel is a A slender, medium-sized kestrel, between 30 and 33 centimeters tall. Adult male kestrels weigh between 183g and 254g, while females weigh between 190g and 280g.',
+			'The Rock kestrel is a A slender, medium-sized kestrel, between 30 and 33 centimeters tall. ',
 		'habitat':
 			'High-lying, central, and eastern regions of Angola, the Democratic Republic of Congo, Tanzania, and South Africa.',
 		'fun_fact':
@@ -476,7 +474,7 @@ const birdData = [
 		'common_name': 'Greater Iophorina',
 		'scientific_name': 'Lophorina superba',
 		'description':
-			'After meticulously preparing a "dance floor" (even scrubbing the dirt or branch smooth with leaves), the male first attracts a female with a loud call. His black feather cape and blue-green chest feathers spring upward and spread widely around his head, instantly transforming the frontal view .of the male bird into a spectacular ellipse-shaped creature that rhythmically snaps his tail feathers against each other, similar to how snapping fingers work, while hopping in frantic circles around the female.',
+			'After meticulously preparing a "dance floor" (even scrubbing the dirt or branch smooth with leaves), the male first attracts a female with a loud call.',
 		'habitat': 'Rainforests of New Guinea',
 		'fun_fact':
 			"The word 'Lophorina' in the bird's scientific name means 'tuft', this is based on the upward standing tuft of feathers above their head.",
@@ -488,7 +486,7 @@ const birdData = [
 		'common_name': 'King Bird of Paradise',
 		'scientific_name': 'Cicinnurus regius',
 		'description':
-			'They are perhaps more persistent callers than any other birds of paradise. Courtship involves complex vocalizations, feather manipulations, and a variety of body posturing and movements, including hanging fully inverted and pendulum-like swinging.',
+			'They are perhaps more persistent callers than any other birds of paradise. Courtship involves complex vocalizations, feather manipulations, and a variety of body posturing and movements.',
 		'habitat': 'Lowland forests of New Guinea and western satellite islands',
 		'fun_fact':
 			'The female builds the nest and cares for the young without male assistance.',
@@ -513,7 +511,7 @@ const birdData = [
 		'common_name': 'Red Bird of Paradise',
 		'scientific_name': 'Paradisaea rubra',
 		'description':
-			'Large, up to 33 cm long, brown and yellow with a dark brown iris, grey legs and yellow bill. The male has an emerald green face, a pair of elongated black corkscrew-shaped tail wires, dark green feather pompoms above each eye and a train of glossy crimson red plumes with whitish tips at either side of the breast. The female is similar but smaller in size, with a dark brown face and has no ornamental red plumes.',
+			'Large, up to 33 cm long, brown and yellow with a dark brown iris, grey legs and yellow bill.',
 		'habitat':
 			'Lowland rainforests of Waigeo and Batanta islands of Raja Ampat, West Papua',
 		'fun_fact':
@@ -527,7 +525,7 @@ const birdData = [
 		'common_name': "Wilson's Bird of Paradise",
 		'scientific_name': 'Cicinnurus respublica',
 		'description':
-			"Wilson's bird-of-paradise is rather small. Males can reach a length of 16 centimetres, while females can reach a length of 16 cm. The male is a red and black bird-of-paradise, with a yellow mantle on its neck, light green mouth, rich blue feet and two curved violet tail feathers. The head is naked blue, with a black double cross pattern on it. The female is a brownish bird with bare blue crown.",
+			"Wilson's bird-of-paradise is rather small. Males can reach a length of 16 centimetres, while females can reach a length of 16 cm.",
 		'habitat':
 			'The hill and lowland rainforests of Waigeo and Batanta Islands off West Papua.',
 		'fun_fact':
@@ -541,7 +539,7 @@ const birdData = [
 		'common_name': 'Lesser Bird of Paradise',
 		'scientific_name': 'Paradisaea minor',
 		'description':
-			'The Lesser Bird-of-Paradise is medium-sized, maroon-brown with a yellow crown and brownish-yellow upper back. The male has a dark emerald-green throat, a pair of long tail-wires and is adorned with ornamental flank plumes which are deep yellow at their base and fade outwards into white. The female is a maroon bird with a dark-brown head and whitish underparts.',
+			'The Lesser Bird-of-Paradise is medium-sized, maroon-brown with a yellow crown and brownish-yellow upper back.',
 		'habitat':
 			'Forests of northern New Guinea, and the nearby islands of Misool and Yapen',
 		'fun_fact':
@@ -555,7 +553,7 @@ const birdData = [
 		'common_name': "Victoria's Riflebird",
 		'scientific_name': 'Ptiloris victoriae',
 		'description':
-			'The smallest riflebird. Males have an iridescent purple sheen plumage, which becomes more blue-green on the head and more bronze on the lower breast. Females have a pale eyebrow, and the buff underparts are faintly barred with brown.',
+			'The smallest riflebird. Males have an iridescent purple sheen plumage, which becomes more blue-green on the head and more bronze on the lower breast.',
 		'habitat': 'Northeastern Queensland, Australia',
 		'fun_fact':
 			'As well as insects, they eat fruits from the trees, some which they peel by holding the fruit with one foot and removing the skin with their bill.',
@@ -568,7 +566,7 @@ const birdData = [
 		'common_name': 'Magnificent Riflebird',
 		'scientific_name': 'Ptiloris magnificus',
 		'description':
-			'The male is velvet-black with elongated black filamental flank plumes, an iridescent blue-green crown, a triangle-shaped breast shield, and on central tail feathers. The female is brownish with dark spots and buff bars below with a white brow.',
+			'The male is velvet-black with elongated black filamental flank plumes, an iridescent blue-green crown, a triangle-shaped breast shield, and on central tail feathers.',
 		'habitat':
 			'Lowland rainforests of New Guinea and the northern Cape York Peninsula of Australia',
 		'fun_fact':
@@ -582,7 +580,7 @@ const birdData = [
 		'common_name': "Goldie's Bird of Paradise",
 		'scientific_name': 'Paradisaea decora',
 		'description':
-			'The male has a yellow and dark green plumage with a lavender grey breast. It is adorned with large crimson ornamental flank plumes and two long tail wired. Unadorned females have an olive-brown plumage with cinnamon-brown below.',
+			'The male has a yellow and dark green plumage with a lavender grey breast. It is adorned with large crimson ornamental flank plumes and two long tail wired.',
 		'habitat':
 			"The hill forests of Fergusson and Normanby Island of the D'Entrecasteaux Archipelago, eastern Papuan Islands",
 		'fun_fact':
@@ -596,7 +594,7 @@ const birdData = [
 		'common_name': 'Ribbon-tailed Astrapia',
 		'scientific_name': 'Astrapia mayeri',
 		'description':
-			'The male has an iridescent olive green and bronze plumage and has two extremely long, ribbon-like white tail feathers. The female has an irridescent head and does not have the long white tails.',
+			'The male has an iridescent olive green and bronze plumage and has two extremely long, ribbon-like white tail feathers.',
 		'habitat':
 			'Subalpine forests in the western part of the central highlands of Papau New Guinea',
 		'fun_fact':
