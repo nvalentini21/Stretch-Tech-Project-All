@@ -17,21 +17,16 @@ const birdData = require('../data')
 
 // ----
 const createBird = async (knex, bird) => {
-	const birdId = await knex('bird_data').insert(
-		{
-			id: bird.id,
-			// family: bird.family,
-			common_name: bird.common_name,
-			scientific_name: bird.scientific_name,
-			// description: bird.description,
-			habitat: bird.habitat,
-			fun_fact: bird.fun_fact,
-			img_url: bird.img_url,
-		}
-		// 'id'
-	)
-
-	console.log('bird id', birdId)
+	const birdId = await knex('bird_data').insert({
+		id: bird.id,
+		family: bird.family,
+		common_name: bird.common_name,
+		scientific_name: bird.scientific_name,
+		description: bird.description,
+		habitat: bird.habitat,
+		fun_fact: bird.fun_fact,
+		img_url: bird.img_url,
+	})
 	return Promise.all([birdId])
 }
 
